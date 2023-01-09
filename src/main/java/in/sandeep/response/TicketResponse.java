@@ -13,6 +13,7 @@ public class TicketResponse {
 	private String train;
 	private String status;
 	private Double price;
+        private String address;
 	
 	public TicketResponse() {
 		super();
